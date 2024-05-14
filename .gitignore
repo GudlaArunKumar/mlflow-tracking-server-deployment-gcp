@@ -128,6 +128,11 @@ ENV/
 env.bak/
 venv.bak/
 
+
+# environment variables
+.envs/.gcp 
+.envs/.tracking-server
+
 # Spyder project settings
 .spyderproject
 .spyproject
